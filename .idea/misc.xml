@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_service_buyer" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_service_page" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_service_search" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_service_sellergoods" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_service_user" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_web_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_web_portal" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_web_shop" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg_parent/pyg_web_user" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pyg_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/sms_service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pyg_parent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
